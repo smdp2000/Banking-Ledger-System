@@ -258,12 +258,4 @@ To deploy the service, we would create docker image and then deploy it to AWS EC
    - Access the application at `http://<alb-dns-name>/ping` (e.g., `http://bank-ledger-alb-123456789.us-west-2.elb.amazonaws.com/ping`).
 
 
-## License
 
-At CodeScreen, we strongly value the integrity and privacy of our assessments. As a result, this repository is under exclusive copyright, which means you **do not** have permission to share your solution to this test publicly (i.e., inside a public GitHub/GitLab repo, on Reddit, etc.). <br>
-
-## Submitting your solution
-
-Please push your changes to the `main branch` of this repository. You can push one or more commits. <br>
-
-Once you are finished with the task, please click the `Submit Solution` link on <a href="https://app.codescreen.com/candidate/39d70d57-d748-4835-b66c-6fcf0ac818e1" target="_blank">this screen</a>.
